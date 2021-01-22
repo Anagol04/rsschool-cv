@@ -1,5 +1,5 @@
 # Anastacia Golub
--------------
+
 ### Frontend Web Developer
 
 * *Adress:* Russian Federation, Moscow
