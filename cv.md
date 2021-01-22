@@ -2,7 +2,7 @@
 
 <img style="float: right;" src="https://avatars.githubusercontent.com/u/77564440?s=460&u=f00adbabfc38302d3c0e5f4abe9c3fcdecdb0ef8&v=4" width="150" height="150">
 
-### Frontend Web Developer
+**Frontend Web Developer**
 
 * *Adress:* Russian Federation, Moscow
 * *Tel/WhatsApp:* +79051147125                                  
